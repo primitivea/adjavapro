@@ -1,0 +1,13 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+ncpierson:
+  name: ncpierson
+  url: https://github.com/ncpierson/
+  bio: Penulis dan antusias teknologi yang fokus pada tutorial gadget, aplikasi, dan tips trik teknologi praktis untuk membantu pengguna di Indonesia memaksimalkan perangkat mereka.
+  credentials: Tech Content Creator & Software Enthusiast.
